@@ -1,7 +1,7 @@
-import CardPage from "./card-page";
+import CartPage from "./cart-page";
 import HomePage from "./home-page";
 
 export {
     HomePage ,
-    CardPage 
+    CartPage 
 };
